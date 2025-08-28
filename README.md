@@ -25,7 +25,7 @@ A **real-time web-based chat application** built with **Python, Flask, and Socke
 
  bash
 
-git clone https://github.com/kavya24golla/chat-application-.git
+git clone https://github.com/kavya24golla/chat-app.git
 cd chat-application
  ### Create a virtual environment:
 
@@ -42,7 +42,7 @@ pip install flask flask-socketio eventlet
 
 Start the server:
 
-python server.py
+python client.py
 
 
 ### Open your browser and go to:
