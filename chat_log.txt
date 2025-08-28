@@ -1,0 +1,20 @@
+gkavya: python client.py
+gkavya: 
+gkavya: 
+gkavya: 
+gkavya: 
+gkavya: 
+gkavya: 
+gkavya: hi rahul,i am kavya,what are you doing
+rahul: hi kavya,i am reading
+kavya joined the chat!
+rahu joined the chat!
+kavya: hi rahu
+rahu: hi kavu
+kavya joined the chat!
+kavya: hi i am kavya
+rahul joined the chat!
+rahul: hi i am rahul
+kavya: hi rahul
+mohith joined the chat!
+mohith: hi,i am bunny
