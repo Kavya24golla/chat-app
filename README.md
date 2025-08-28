@@ -8,7 +8,7 @@ A **real-time web-based chat application** built with **Python, Flask, and Socke
 - Chat history saved to `chat_log.txt`.
 - Colorful and responsive UI with message bubbles.
 - Fully browser-based—no terminal clients needed.
-- ![Chat App Screenshot](image/app_.png)
+- ![Chat App Screenshot](app_.png)
 
 ## Project Structure
  #### chat-application/
